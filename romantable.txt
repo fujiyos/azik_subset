@@ -652,14 +652,10 @@ zc	ざ
 zd	ぜん
 ze	ぜ
 zf	ぜ
-zh	←
 zh	ずう
 zi	じ
-zj	↓
 zj	ずん
-zk	↑
 zk	じん
-zl	→
 zl	ぞん
 zn	ざん
 zo	ぞ
