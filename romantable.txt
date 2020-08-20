@@ -578,7 +578,6 @@ wt	わた
 wu	う
 ww	っ	w
 ww	うぇい
-www	w	ww
 wye	ゑ
 wyi	ゐ
 wz	わん
