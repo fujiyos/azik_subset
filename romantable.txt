@@ -56,9 +56,6 @@ cyi	ちぃ
 cyo	ちょ
 cyu	ちゅ
 cz	ちゃん
-d'i	でぃ
-d'u	どぅ
-d'yu	でゅ
 da	だ
 dci	でぃ
 dcj	どぅん
@@ -354,7 +351,6 @@ myw	みぇい
 myz	みゃん
 mz	まん
 n	ん
-n'	ん
 na	な
 nd	ねん
 ne	ね
@@ -509,9 +505,6 @@ syu	しゅ
 syw	しぇい
 syz	しゃん
 sz	さん
-t'i	てぃ
-t'u	とぅ
-t'yu	てゅ
 ta	た
 td	てん
 te	て
