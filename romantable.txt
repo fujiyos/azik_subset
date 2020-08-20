@@ -84,11 +84,6 @@ ds	です
 dt	だち
 du	づ
 dw	でい
-dwa	どぁ
-dwe	どぇ
-dwi	どぃ
-dwo	どぉ
-dwu	どぅ
 dya	ぢゃ
 dyd	ぢぇん
 dye	ぢぇ
@@ -140,11 +135,6 @@ gr	がら
 gt	ごと
 gu	ぐ
 gw	げい
-gwa	ぐぁ
-gwe	ぐぇ
-gwi	ぐぃ
-gwo	ぐぉ
-gwu	ぐぅ
 gya	ぎゃ
 gyd	ぎぇん
 gye	ぎぇ
@@ -190,11 +180,6 @@ hq	はい
 ht	ひと
 hu	ふ
 hw	へい
-hwa	ふぁ
-hwe	ふぇ
-hwi	ふぃ
-hwo	ふぉ
-hwyu	ふゅ
 hya	ひゃ
 hyd	ひぇん
 hye	ひぇ
@@ -265,11 +250,6 @@ kr	から
 kt	こと
 ku	く
 kw	けい
-kwa	くぁ
-kwe	くぇ
-kwi	くぃ
-kwo	くぉ
-kwu	くぅ
 kya	きゃ
 kyd	きぇん
 kye	きぇ
@@ -304,7 +284,6 @@ ltsu	っ
 ltu	っ
 lu	ぅ
 lw	ぇい
-lwa	ゎ
 lya	ゃ
 lye	ぇ
 lyh	ゅう
@@ -500,11 +479,6 @@ sq	さい
 ss	っ	s
 su	す
 sw	せい
-swa	すぁ
-swe	すぇ
-swi	すぃ
-swo	すぉ
-swu	すぅ
 sya	しゃ
 syd	しぇん
 sye	しぇ
@@ -546,12 +520,6 @@ tso	つぉ
 tsu	つ
 tt	っ	t
 tu	つ
-tw	てい
-twa	とぁ
-twe	とぇ
-twi	とぃ
-two	とぉ
-twu	とぅ
 tya	ちゃ
 tyd	ちぇん
 tye	ちぇ
@@ -631,7 +599,6 @@ xtsu	っ
 xtu	っ
 xu	ぅ
 xw	しぇい
-xwa	ゎ
 xx	っ	x
 xya	ゃ
 xye	ぇ
@@ -673,12 +640,6 @@ zq	ざい
 zr	ざる
 zu	ず
 zv	ざい
-zw	ぜい
-zwa	ずぁ
-zwe	ずぇ
-zwi	ずぃ
-zwo	ずぉ
-zwu	ずぅ
 zx	ぜい
 zya	じゃ
 zyd	じぇん
