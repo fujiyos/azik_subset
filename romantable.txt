@@ -686,5 +686,4 @@ zyu	じゅ
 zyw	じぇい
 zyz	じゃん
 zz	っ	z
-zz	ざん
 ~	〜
