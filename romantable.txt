@@ -571,8 +571,6 @@ wsq	うぉー
 wt	わた
 wu	う
 ww	っ	w
-wye	ゑ
-wyi	ゐ
 wz	わん
 xa	ぁ
 xd	しぇん
